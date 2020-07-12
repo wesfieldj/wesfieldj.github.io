@@ -12,6 +12,10 @@
     ]
   },
     "appclips": {
-        "apps": ["6UQAD4B3U2.com.sampleapp.fruit.Fruit-App.Clip"]
+        "apps": ["6UQAD4B3U2.com.sampleapp.fruit.Fruit-App.Clip"],
+           "paths": [
+          "/8yxe/*",
+          "/8yxe/*"
+        ]
     }
 }
