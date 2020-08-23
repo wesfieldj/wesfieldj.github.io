@@ -1,12 +1,14 @@
 {
+"appclips": {
+        "apps": ["6UQAD4B3U2.com.appsflyer.Device-Id.Clip"]
+    },
   "applinks": {
     "apps": [],
     "details": [
       {
-        "appID": "6UQAD4B3U2.com.appsflyer.fruitapp",
+        "appID": "6UQAD4B3U2.com.appsflyer.Device-Id",
         "paths": [
-          "/8yxe/*",
-          "/8yxe/*"
+          "/8IRW/*"
         ]
       }
     ]
